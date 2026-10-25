@@ -1,6 +1,6 @@
 # India AirWatch 🌍
 
-India AirWatch is a data-driven air quality monitoring and pollution analysis platform designed to understand, analyze, and predict air pollution patterns across India. The project combines data analytics, machine learning, and interactive visualizations to explore Air Quality Index (AQI) trends, identify pollution hotspots, and generate insights into environmental conditions.
+India AirWatch is a data-driven air quality monitoring and pollution analysis platform designed to understand, analyze, and predict air pollution patterns across India. The project combines data analytics, machine learning, and interactive visualizations to explore Air Quality Index (AQI) trends, identify pollution hotspots, and generate insights into environmental conditions. Data science project - dashboard which gives the data interpretation and analysis
 
 ### 🚀 Key Features
 - **AQI Analysis:** Analyze air quality trends and pollutant concentrations across different locations and time periods.
