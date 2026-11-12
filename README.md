@@ -29,3 +29,4 @@ India AirWatch is a data-driven air quality monitoring and pollution analysis pl
 India AirWatch aims to demonstrate how data science can be used to better understand air pollution, improve environmental awareness, and support data-informed decision-making for a cleaner and healthier future.
 
 **Note:** Predictions and hotspot classifications depend on the quality, coverage, and availability of the underlying datasets. The project is intended for analytical and educational purposes and does not replace official air quality advisories.
+Air quality is a concerning issue in festivals like Diwali and cities which have a lot of traffic.
